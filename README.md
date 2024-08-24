@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I am a Java programmer seeking to deepen and expand my knowledge of Java, Javascript, database management, system architecture, and other web related and front-end technolgies to shift into the role of a full stack software engineer.
+
 
 <!--
 **ConnorDios/ConnorDios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
